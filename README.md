@@ -1,6 +1,6 @@
 # BinaryWriter-node.js
 
-Fast and easy tools for binary serialization for node.js
+Fast and easy tools for binary serialization in node.js
 
 ##Usage
 
