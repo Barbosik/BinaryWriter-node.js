@@ -1,5 +1,8 @@
 # BinaryWriter-node.js
 
+![Language](https://img.shields.io/badge/language-node.js-yellow.svg)
+![License](https://img.shields.io/badge/license-APACHE2-blue.svg)
+
 Fast and easy tools for binary serialization in node.js
 
 ##Usage
